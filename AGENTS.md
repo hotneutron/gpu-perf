@@ -1,4 +1,5 @@
+- Amendments to an existing artifact must add/update a timestamped `## Revision History`; agent-facing artifacts are exempted.
+- No `Co-Authored-By` trailer in commits.
 - Every rule here must have a justification entry in `.agent/rules-rationale.md` (which doubles as this file's revision history).
 - Persist user prompts verbatim in artifacts.
-- Any amendment to an existing artifact must add/update timestamped `## Revision History`.
-- No `Co-Authored-By` trailer.
+- Do not number headings or subheadings.
