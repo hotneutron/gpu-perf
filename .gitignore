@@ -1,6 +1,9 @@
 # Local agent artifacts
 /.agent/artifacts/
 
+# Local experiment evidence
+/local_artifacts/
+
 # Operating system files
 .DS_Store
 ._*
